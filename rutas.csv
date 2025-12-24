@@ -1,0 +1,15 @@
+origen,destino,tiempo,distancia,medio
+a,b,10,5,metro
+b,c,8,4,bus
+c,d,6,3,metro
+d,e,5,2,bus
+e,f,12,6,metro
+f,g,7,3,bus
+g,h,10,5,metro
+h,i,9,4,bus
+i,j,11,5,metro
+j,k,4,2,bus
+k,l,13,7,metro
+b,f,20,10,bus
+c,h,15,7,metro
+a,d,18,9,bus
